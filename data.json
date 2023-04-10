@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Heydar Alizada",
+        "age": 27
+    },
+
+    {
+        "id": 2,
+        "name": "Kamil Abizalov",
+        "age": 32
+    },
+
+    {
+        "id": 3,
+        "name": "Yusif Gambarov",
+        "age": 30
+    }
+]
